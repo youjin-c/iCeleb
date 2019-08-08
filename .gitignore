@@ -1,0 +1,6 @@
+*.mp4
+*.jpg
+*.ai
+*.mov
+*.png
+!1.png
